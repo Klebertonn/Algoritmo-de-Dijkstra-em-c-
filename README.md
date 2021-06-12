@@ -1,4 +1,4 @@
-//# Algoritmo-de-Dijkstra-em-c-//
+#Algoritmo-de-Dijkstra-em-c++
 Algoritmo de Dijkstra calcula a rota de menor valor de uma empresa de ónibus.
 #include <stdio.h>
 #include <stdlib.h>
